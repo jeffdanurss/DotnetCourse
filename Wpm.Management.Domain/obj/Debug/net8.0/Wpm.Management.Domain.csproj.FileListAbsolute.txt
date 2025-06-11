@@ -9,3 +9,4 @@ C:\curso\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.dll
 C:\curso\Wpm.Management.Domain\obj\Debug\net8.0\refint\Wpm.Management.Domain.dll
 C:\curso\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.pdb
 C:\curso\Wpm.Management.Domain\obj\Debug\net8.0\ref\Wpm.Management.Domain.dll
+C:\curso\Wpm.Management.Domain\obj\Debug\net8.0\Wpm.Management.Domain.sourcelink.json

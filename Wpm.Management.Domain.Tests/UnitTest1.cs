@@ -7,8 +7,9 @@ public class UnitTest1
     {
         var id = Guid.NewGuid();
 
-        var pet1 = new Pet() { Id = id};
-        var pet2 = new Pet() { Id = id};
+        var pet1 = new Pet(id) {Name = "Nina", Age = 10};
+
+        var pet2 = new Pet(id) { Name = "Julio", Age = 9};
 
         Assert.True(pet1 == pet2);
 

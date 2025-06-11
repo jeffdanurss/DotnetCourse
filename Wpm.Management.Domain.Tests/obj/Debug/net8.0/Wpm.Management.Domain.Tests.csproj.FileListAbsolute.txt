@@ -100,3 +100,4 @@ C:\curso\Wpm.Management.Domain.Tests\obj\Debug\net8.0\refint\Wpm.Management.Doma
 C:\curso\Wpm.Management.Domain.Tests\obj\Debug\net8.0\Wpm.Management.Domain.Tests.pdb
 C:\curso\Wpm.Management.Domain.Tests\obj\Debug\net8.0\Wpm.Management.Domain.Tests.genruntimeconfig.cache
 C:\curso\Wpm.Management.Domain.Tests\obj\Debug\net8.0\ref\Wpm.Management.Domain.Tests.dll
+C:\curso\Wpm.Management.Domain.Tests\obj\Debug\net8.0\Wpm.Management.Domain.Tests.sourcelink.json
