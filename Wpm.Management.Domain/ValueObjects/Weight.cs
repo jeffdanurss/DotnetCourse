@@ -1,3 +1,6 @@
+
+using System.Security.Cryptography.X509Certificates;
+
 namespace Wpm.Management.Domain;
 
 public record Weight
@@ -11,5 +14,9 @@ public record Weight
 
         }
         Value = value;
+    }
+    public static implicit operator Weight(decimal value)
+    {
+        return new Weight(value);
     }
 }
